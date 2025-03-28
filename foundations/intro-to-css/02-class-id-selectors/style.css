@@ -1,0 +1,16 @@
+.basic, .advanced {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+.advanced {
+    font-size: 24px;
+}
+#cool {
+    color: blue;
+    font-size: 36px;
+}
+#epic {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;   
+}
